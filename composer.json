@@ -1,5 +1,5 @@
 {
-    "name": "diss1dent/uuid-normalizer",
+    "name": "diss1dent/uuid-normalizer-fork",
     "description": "Normalizer to serialize Ramsey Uuid with Symfony Serializer",
     "type": "library",
     "autoload": {
